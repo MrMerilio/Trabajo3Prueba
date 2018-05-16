@@ -12,7 +12,7 @@
 
 
 
-
+aaaaaaaa
 
 void solicitar(int);
 void trabajar(int);
