@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526302970 source:/home/joselugm97/Escritorio/SO/Trabajo3Prueba/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
